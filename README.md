@@ -10,4 +10,4 @@ DropboxTools is a Python utility for managing Dropbox authentication and file op
 
 ## Installation
 ```sh
-pip install dropboxtools
+pip install https://github.com/SameerArif64/Dropbox-Tools
