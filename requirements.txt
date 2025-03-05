@@ -1,2 +1,4 @@
 dropbox==12.0.2
 Requests==2.32.3
+git+https://github.com/SameerArif64/Advance-Selenium-Chrome
+git+https://github.com/SameerArif64/Json-As-Dict
